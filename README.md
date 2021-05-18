@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Phuoc
-- 👀 I like to travel
+- 👀 I love to travel and hope to one day go to all provinces of Viet Nam
 - 🌱 I’m currently learning Software Engineering and Computer Network
-- 💞️ I’m looking to collaborate with computer expert
-- 📫 How to reach me ...: Contact email:vohuuphuocc6nh1qng@gmail.com
+- 💞️ I’m looking forward to collaborate with computer experts
+- 📫 How to reach me - Contact email:vohuuphuocc6nh1qng@gmail.com
 
 <!---
 Phuoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
